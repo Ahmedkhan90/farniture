@@ -1,0 +1,22 @@
+body{
+    padding: 0;
+    margin: 0;
+background-color: gray;
+
+
+}
+
+
+
+.navbar{
+    background-color:#FF7043
+    !important;
+
+
+}
+
+
+
+.nav-link{
+    color: white;
+}
